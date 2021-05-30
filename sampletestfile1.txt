@@ -2,3 +2,4 @@ This is sample file 1
 This is comparison lecture
 
 My name is deepam
+This is stash lecture, changes in file 1
